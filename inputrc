@@ -1,0 +1,2 @@
+set show-all-if-ambiguous on  # only require 1 <Tab> to see ambiguous listings
+set completion-ignore-case On

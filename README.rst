@@ -1,0 +1,1 @@
+Most of this borrowed from `Justin Lilly's dotfiles <https://github.com/justinlilly/jlilly-bashy-dotfiles>`_.
